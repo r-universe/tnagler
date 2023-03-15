@@ -1,14 +1,6 @@
 [
   {
-    "package": "kde1d",
-    "oncran": true
-  },
-  {
-    "package": "kdecopula",
-    "oncran": true
-  },
-  {
-    "package": "kdevine",
+    "package": "VineCopula",
     "oncran": true
   },
   {
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "svines",
+    "package": "kdevine",
+    "oncran": true
+  },
+  {
+    "package": "wdm",
+    "oncran": true
+  },
+  {
+    "package": "kde1d",
     "oncran": true
   },
   {
@@ -24,15 +24,15 @@
     "oncran": true
   },
   {
-    "package": "VineCopula",
-    "oncran": true
-  },
-  {
     "package": "vinereg",
     "oncran": true
   },
   {
-    "package": "wdm",
+    "package": "svines",
+    "oncran": true
+  },
+  {
+    "package": "kdecopula",
     "oncran": true
   }
 ]
