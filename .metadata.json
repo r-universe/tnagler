@@ -1,10 +1,10 @@
 [
   {
-    "package": "VineCopula",
+    "package": "kde1d",
     "oncran": true
   },
   {
-    "package": "RcppThread",
+    "package": "kdecopula",
     "oncran": true
   },
   {
@@ -12,19 +12,7 @@
     "oncran": true
   },
   {
-    "package": "wdm",
-    "oncran": true
-  },
-  {
-    "package": "kde1d",
-    "oncran": true
-  },
-  {
-    "package": "VC2copula",
-    "oncran": true
-  },
-  {
-    "package": "vinereg",
+    "package": "RcppThread",
     "oncran": true
   },
   {
@@ -32,7 +20,19 @@
     "oncran": true
   },
   {
-    "package": "kdecopula",
+    "package": "VC2copula",
+    "oncran": true
+  },
+  {
+    "package": "VineCopula",
+    "oncran": true
+  },
+  {
+    "package": "vinereg",
+    "oncran": true
+  },
+  {
+    "package": "wdm",
     "oncran": true
   }
 ]

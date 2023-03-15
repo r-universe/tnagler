@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "VineCopula"]
-	path = VineCopula
-	url = https://github.com/tnagler/vinecopula
+[submodule "kde1d"]
+	path = kde1d
+	url = https://github.com/tnagler/kde1d
 	shallow = true
 	registered = true
-[submodule "RcppThread"]
-	path = RcppThread
-	url = https://github.com/tnagler/rcppthread
+[submodule "kdecopula"]
+	path = kdecopula
+	url = https://github.com/tnagler/kdecopula
 	shallow = true
 	registered = true
 [submodule "kdevine"]
@@ -18,24 +18,9 @@
 	url = https://github.com/tnagler/kdevine
 	shallow = true
 	registered = true
-[submodule "wdm"]
-	path = wdm
-	url = https://github.com/tnagler/wdm-r
-	shallow = true
-	registered = true
-[submodule "kde1d"]
-	path = kde1d
-	url = https://github.com/tnagler/kde1d
-	shallow = true
-	registered = true
-[submodule "VC2copula"]
-	path = VC2copula
-	url = https://github.com/tnagler/vc2copula
-	shallow = true
-	registered = true
-[submodule "vinereg"]
-	path = vinereg
-	url = https://github.com/tnagler/vinereg
+[submodule "RcppThread"]
+	path = RcppThread
+	url = https://github.com/tnagler/rcppthread
 	shallow = true
 	registered = true
 [submodule "svines"]
@@ -43,8 +28,23 @@
 	url = https://github.com/tnagler/svines
 	shallow = true
 	registered = true
-[submodule "kdecopula"]
-	path = kdecopula
-	url = https://github.com/tnagler/kdecopula
+[submodule "VC2copula"]
+	path = VC2copula
+	url = https://github.com/tnagler/vc2copula
+	shallow = true
+	registered = true
+[submodule "VineCopula"]
+	path = VineCopula
+	url = https://github.com/tnagler/vinecopula
+	shallow = true
+	registered = true
+[submodule "vinereg"]
+	path = vinereg
+	url = https://github.com/tnagler/vinereg
+	shallow = true
+	registered = true
+[submodule "wdm"]
+	path = wdm
+	url = https://github.com/tnagler/wdm-r
 	shallow = true
 	registered = true
