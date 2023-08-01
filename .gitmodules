@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RcppThread"]
+	path = RcppThread
+	url = https://github.com/tnagler/rcppthread
+[submodule "VC2copula"]
+	path = VC2copula
+	url = https://github.com/tnagler/vc2copula
+[submodule "VineCopula"]
+	path = VineCopula
+	url = https://github.com/tnagler/vinecopula
 [submodule "kde1d"]
 	path = kde1d
 	url = https://github.com/tnagler/kde1d
@@ -11,18 +20,9 @@
 [submodule "kdevine"]
 	path = kdevine
 	url = https://github.com/tnagler/kdevine
-[submodule "RcppThread"]
-	path = RcppThread
-	url = https://github.com/tnagler/rcppthread
 [submodule "svines"]
 	path = svines
 	url = https://github.com/tnagler/svines
-[submodule "VC2copula"]
-	path = VC2copula
-	url = https://github.com/tnagler/vc2copula
-[submodule "VineCopula"]
-	path = VineCopula
-	url = https://github.com/tnagler/vinecopula
 [submodule "vinereg"]
 	path = vinereg
 	url = https://github.com/tnagler/vinereg
