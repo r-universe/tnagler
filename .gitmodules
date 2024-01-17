@@ -5,6 +5,9 @@
 [submodule "RcppThread"]
 	path = RcppThread
 	url = https://github.com/tnagler/rcppthread
+[submodule "VC2copula"]
+	path = VC2copula
+	url = https://github.com/tnagler/vc2copula
 [submodule "VineCopula"]
 	path = VineCopula
 	url = https://github.com/tnagler/vinecopula
