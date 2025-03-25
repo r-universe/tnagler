@@ -11,6 +11,9 @@
 [submodule "VineCopula"]
 	path = VineCopula
 	url = https://github.com/tnagler/vinecopula
+[submodule "cctools"]
+	path = cctools
+	url = https://github.com/tnagler/cctools
 [submodule "kde1d"]
 	path = kde1d
 	url = https://github.com/tnagler/kde1d
